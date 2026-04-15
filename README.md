@@ -73,4 +73,10 @@ La app funciona correctamente y se puede seguir mejorando en el futuro.
 
 ---
 
+## 📥 Descargar aplicación
+
+👉 [Descargar última versión](https://github.com/TU-USUARIO/TU-REPO/releases)
+
+---
+
 > Fue mi primer proyecto mobile completo, así que me sirvió mucho para entender cómo funciona todo en conjunto.
