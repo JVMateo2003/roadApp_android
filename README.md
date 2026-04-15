@@ -75,7 +75,7 @@ La app funciona correctamente y se puede seguir mejorando en el futuro.
 
 ## 📥 Descargar aplicación
 
-👉 [Descargar última versión](https://github.com/TU-USUARIO/TU-REPO/releases)
+👉 [Descargar última versión](https://github.com/JVMateo2003/roadApp_android/releases)
 
 ---
 
