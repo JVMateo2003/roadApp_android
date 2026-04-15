@@ -1,10 +1,10 @@
-# 📱 RoadApp
+# RoadApp
 
 Aplicación Android que desarrollé como proyecto final, donde se pueden generar rutas y dejar opiniones en distintos puntos del mapa.
 
 ---
 
-## 🚀 ¿Qué hace la app?
+## ¿Qué hace la app?
 
 - Permite buscar o seleccionar un destino en el mapa  
 - Genera una ruta desde tu ubicación actual  
@@ -15,7 +15,7 @@ Aplicación Android que desarrollé como proyecto final, donde se pueden generar
 
 ---
 
-## 🛠️ Tecnologías que usé
+## Tecnologías que usé
 
 - Kotlin  
 - Android Studio  
@@ -27,7 +27,7 @@ Aplicación Android que desarrollé como proyecto final, donde se pueden generar
 
 ---
 
-## 🔐 Login
+## Login
 
 El login es simple:  
 
@@ -38,7 +38,7 @@ El usuario se guarda y después se usa para mostrar quién hizo cada opinión.
 
 ---
 
-## 💾 Guardado de datos
+## Guardado de datos
 
 Para guardar la información usé **SharedPreferences**.
 
@@ -49,7 +49,7 @@ Con eso logro que:
 
 ---
 
-## 🎯 Sobre el proyecto
+## Sobre el proyecto
 
 Este proyecto lo hice como trabajo final de la carrera **Técnico Superior en Programación**.
 
@@ -61,13 +61,13 @@ La idea fue integrar varias cosas:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Mateo Veron  
 
 ---
 
-## 📌 Estado
+## Estado
 
 La app funciona correctamente y se puede seguir mejorando en el futuro.
 
